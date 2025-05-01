@@ -1,7 +1,6 @@
 # Inventory Management System
 
-![Inventory Management System Banner](<img width="959" alt="image" src="https://github.com/user-attachments/assets/e29ba013-7bc1-4609-86ce-4596b0d6bccd" />
-)
+![Inventory Management System Banner] <img width="959" alt="image" src="https://github.com/user-attachments/assets/e29ba013-7bc1-4609-86ce-4596b0d6bccd" />
 
 ## Overview
 
