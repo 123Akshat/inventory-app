@@ -36,7 +36,15 @@ The **Inventory Management System** is designed to help businesses manage their 
 - **Barcode Scanning**: Integration with barcode scanning libraries/APIs
 - **APIs**: Integration with third-party APIs for shipping, suppliers, etc.
 
-## Getting Started
+## Screenshots
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/972a5196-d524-41e9-9eea-0ef7bb2eaa5e" />
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/92380dc6-e381-4ade-87b4-34ccc5d0269f" />
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/3abb9d0e-6b78-41dd-8b31-6fd9af3cc2c0" />
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c7232c4a-5921-4bff-912c-717edb4fca36" />
+
 
 ### Prerequisites
 
